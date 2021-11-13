@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/sabhinav10/My-Portfolio)
 
-- 🌱 I’m currently learning **CSS grid and Javascript**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
